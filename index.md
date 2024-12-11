@@ -26,7 +26,7 @@ Created by Sarah Clayton
 
 
 ## Introduction
-OpenRefine (formerly Google Refine) is an open source software, which can help clean messy data. OpenRefine can't solve all of your messy data dilemmas, but it can make some of the processes quicker and easier. This tutorial will walk you through some of the basics of the tool using real data.  
+OpenRefine is an open source software, which can help clean messy data. OpenRefine can't solve all of your messy data dilemmas, but it can make some of the processes quicker and easier. This tutorial will walk you through some of the basics of the tool using real data.  
 [Return to Top](#about)
 
 ## Getting Started
