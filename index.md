@@ -45,7 +45,7 @@ You can download the data from the project site for different years, but we are 
 
 The examples in this tutorial will use a snapshot of this data downloaded on December 12, 2024. [You can download the example data here.](data/MissingMigrants-Global-2024-12-11T23_02_47+0800.xlsx) 
 
-If you want to work with the most recent iteration of this data, go to [https://data.humdata.org/dataset/migrant-deaths-by-month](https://data.humdata.org/dataset/migrant-deaths-by-month). Scroll down and download the Migrant Deaths by month excel file.
+If you want to work with the most recent iteration of this data, go to [https://missingmigrants.iom.int/downloads](https://missingmigrants.iom.int/downloads). Scroll down and download the file that corresponds with the current year.
 
 Open up the data to see what is in it. **What stands out to you that needs to be cleaned?**
 
