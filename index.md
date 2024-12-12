@@ -43,7 +43,7 @@ The data is made accesible through a Creative Commons Attribution 4.0 Internatio
 
 You can download the data from the project site for different years, but we are going to download a spreadsheet with all the years combined from The Humanitarian Data Exchange. 
 
-The examples in this tutorial will use a snapshot of this data downloaded on October 4, 2017. [You can download the example data here.](data/MissingMigrants.xlsx) 
+The examples in this tutorial will use a snapshot of this data downloaded on December 12, 2024. [You can download the example data here.](data/MissingMigrants-Global-2024-12-11T23_02_47+0800.xlsx) 
 
 If you want to work with the most recent iteration of this data, go to [https://data.humdata.org/dataset/migrant-deaths-by-month](https://data.humdata.org/dataset/migrant-deaths-by-month). Scroll down and download the Migrant Deaths by month excel file.
 
