@@ -37,7 +37,7 @@ You can download the OpenRefine software from [http://openrefine.org/download.ht
 
 ### Getting the Data
 The data we will be using comes from the [International Organization on Migration's Missing Migrants Project](https://missingmigrants.iom.int/). According to project's About page: 
-> "IOM's Missing Migrants Project tracks deaths of migrants, including refugees and asylum-seekers, who have gone missing along mixed migration routes worldwide. The research behind this project began with the October 2013 tragedies, when at least 368 individuals died in two shipwrecks near the Italian island of Lampedusa. Since then, Missing Migrants Project has developed into an important hub and advocacy source of information that media, researchers, and the general public access for the latest information." [https://missingmigrants.iom.int/about](https://missingmigrants.iom.int/about). 
+> "The International Organization for Migration (IOM)’s Missing Migrants Project records incidents in which migrants, including refugees and asylum-seekers, have died at state borders or in the process of migrating to an international destination. It was developed in response to disparate reports of people dying or disappearing along migratory routes around the world, and particularly in the wake of two shipwrecks in October 2013, when at least 368 people died near the Italian island of Lampedusa. The Project hosts the only existing open-access database of records of deaths during migration on the global level."
 
 The data is made accesible through a Creative Commons Attribution 4.0 International License. 
 
