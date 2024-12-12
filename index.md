@@ -49,8 +49,6 @@ If you want to work with the most recent iteration of this data, go to [https://
 
 Open up the data to see what is in it. **What stands out to you that needs to be cleaned?**
 
-![Downloading the data](images/image_01.png)
-
 [Return to Top](#about)
 
 
