@@ -245,7 +245,7 @@ Now that your data is clean, you probably want to you use it in another applicat
 
 ![Export Options](images/image_20.png)
 
-If you select **Export project**, it will save the whole OpenRefine project, which might be nice if you are trying to share the data cleaning work you did with a colleague or use it on another computer. 
+If you select **OpenRefine project archive to file**, it will save the whole OpenRefine project, which might be nice if you are trying to share the data cleaning work you did with a colleague or use it on another computer. 
 
 Other popular options are comma-separated values, and excel files. Select whichever options makes sense for your project, and the file will automatically download. 
 
