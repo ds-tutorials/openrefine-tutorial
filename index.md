@@ -264,4 +264,4 @@ Also note the **Extract** and **Apply** buttons on the top. Extract will let you
 ## Resources
 Hopefully, this tutorial helped you become familiar with some of OpenRefine's functionality, but there is a lot more to explore. 
 
-OpenRefine maintians a list of tutorials - including beginning and more advanced or specific topics. You can find these tutorials at [https://github.com/OpenRefine/OpenRefine/wiki/External-Resources](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources). 
+OpenRefine has documentation that provides guidance on a variety of subjects, including beginning and more advanced or specific topics. You can find this documentation at [https://openrefine.org/docs](https://openrefine.org/docs). 
