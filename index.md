@@ -249,11 +249,11 @@ If you select **OpenRefine project archive to file**, it will save the whole Ope
 
 Other popular options are comma-separated values, and excel files. Select whichever options makes sense for your project, and the file will automatically download. 
 
-Your OpenRefine project is automatically saved in your OpenRefine application. If you click the OpenRefine logo in the top right corner, you will be taken to a list of your projects. 
+Your OpenRefine project is automatically saved in your OpenRefine application. If you click the OpenRefine logo in the top right corner, you will be taken to the "Create project" page you saw at the beginning of this lesson.   
 
 ![OpenRefine Logo](images/image_21.png)
 
-Click on your project's title to open it. 
+On the left hand side, you'll see options like "Open project", "Import project", and "Lanugage Settings". Click on **Open project**, and then on your project's title to open it. 
 
 Before the conclusion of this tutorial, I want to point out one more important element in OpenRefine. Click the **Undo/Redo** tab on the top of the Facet/Filter section. This lists every command we have run in this OpenRefine Project. Clicking any of the steps will revert the project back to that stage. 
 
