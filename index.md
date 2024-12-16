@@ -196,7 +196,7 @@ After you do that, all of the cells should disappear from the spreadsheet becaus
 ### GREL
 The above methods worked pretty well and allowed us to edit 120 and 33 cells at once. But if you scroll down and look at the other causes you should notice that a significant number of the 1 count values have underscores. 
 
-Luckily, we can use a special syntax called Google Refine Expression Language (GREL) to match patterns and make bulk changes. 
+Luckily, we can use a special syntax called General Refine Expression Language (GREL) to match patterns and make bulk changes. 
 
 First, go the #cause+type column's menu. Click **Edit cells** and select **Transform**.
 
@@ -206,7 +206,7 @@ In the expression field enter: **replace(value, "_", " ")**. It is very importan
 
 Now, look through your data to confirm that the expression worked. 
 
-GREL is very powerful but can take time to become comfortable with it. However, you can often find someone online who has run a similar transformation and has made their expression available. You can also look up all of the GREL functions and how to use them in the OpenRefine Github Repository: [https://github.com/OpenRefine/OpenRefine/wiki/GREL-String-Functions](https://github.com/OpenRefine/OpenRefine/wiki/GREL-String-Functions). 
+GREL is very powerful but can take time to become comfortable with it. However, you can often find someone online who has run a similar transformation and has made their expression available. You can also look up all of the GREL functions and how to use them in the OpenRefine documentation: [https://openrefine.org/docs/manual/grelfunctions](https://openrefine.org/docs/manual/grelfunctions). 
 
 ## Spilting Cells 
 Now, the the underscores are removed, we can move onto another data problem; there are often multiple causes within a cell, which can make it challenging to see which causes come up the most often. 
