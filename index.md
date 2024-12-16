@@ -208,7 +208,7 @@ Now, look through your data to confirm that the expression worked.
 
 GREL is very powerful but can take time to become comfortable with it. However, you can often find someone online who has run a similar transformation and has made their expression available. You can also look up all of the GREL functions and how to use them in the OpenRefine documentation: [https://openrefine.org/docs/manual/grelfunctions](https://openrefine.org/docs/manual/grelfunctions). 
 
-## Spilting Cells 
+## Splitting Cells 
 Now, the the underscores are removed, we can move onto another data problem; there are often multiple causes within a cell, which can make it challenging to see which causes come up the most often. 
 
 Since we have been trying to separate different causes with a commas, we can use that to separate all the values. 
@@ -217,7 +217,7 @@ Go into the #cause+type menu. Click on **Edit Cells** and select **Split multi-v
 
 ![Split Cells](images/image_17.png)
 
-In the pop-up that appears, leave the default comma that appears, and click **OK**. 
+In the pop-up that appears, the "by separator" option should be automatically selected (if not, go ahead and click on it). Ensure that the Separator field has a comma ",", and click **OK**. 
 
 Notice that your total number of rows has increased to 2842. However, if you click to show records instead of rows (right below the number of rows), you should see that the number of records has remained consistant. 
 
