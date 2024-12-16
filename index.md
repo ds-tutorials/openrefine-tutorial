@@ -101,7 +101,7 @@ Now, the data in the date field is also green. A timestamp was also added, which
 
 ## Filters and Facets
 ### Timeline Facet
-We can use tools in OpenRefine to help us quickly better understand our data. OpenRefine has a several ways to facet our data, which can give help us identify potential problems. Let's start with the #date+reported column we have just transformed. 
+We can use tools in OpenRefine to help us quickly better understand our data. OpenRefine has a several ways to facet our data, which can help us identify potential problems. Let's start with the #date+reported column we have just transformed. 
 
 Click the down arrow next to #date+reported column scroll over **Facet** and select **Timeline facet**.
 
