@@ -113,7 +113,7 @@ After you have selected this, you should see a new box open in the Facet/Filter 
 
 Uncheck the box at the bottom of the facet that says Blanks. This will filter out all of the rows with no date so they are not displayed in our data. 
 
-You can use the facet to adjust the data based on the date reported. On the left side of the box, there is a gray oval with two lines. Drag the oval until the date displayed at the bottom is in 2016. After you do this, look at the number of matching rows at the top of the spreadsheet. This number should have decreased. 
+You can use the facet to adjust the data based on the date reported. On the left side of the box, there is a gray oval with two lines. Drag the oval until the first date in the text displayed at the bottom is in 2016. After you do this, look at the number of matching rows at the top of the spreadsheet. This number should have decreased. 
 
 ![Filtered with Timeline](images/image_09.png)
 
