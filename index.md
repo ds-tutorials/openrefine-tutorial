@@ -95,7 +95,7 @@ Click the down arrow by #date+reported. Scroll to **Edit cells**. Select **Commo
 
 ![transform data type](images/image_06.png)
 
-Now,the data in the date field is also green. A timestamp was also added, which doesn't really make sense for our data. However, it won't affect our analysis so we will just leave it for now. We will want to change it back to a text before exporting it. 
+Now, the data in the date field is also green. A timestamp was also added, which doesn't really make sense for our data. However, it won't affect our analysis so we will just leave it for now. We will want to change it back to a text before exporting it. 
 
 [Return to Top](#about)
 
