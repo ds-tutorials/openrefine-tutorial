@@ -168,7 +168,7 @@ Let's repeat the process for another column. First, remove the text facet you ha
 
 Sort by count. Note that they are currently 300 distinct values. 
 
-Click **Cluster**. Cluster as many same results as you see. Be careful. There are often multiple causes in a single record. The different values are sometimes separated by a comma, and sometimes they are not. We want them to be separated by a comma, so select that option or type it into the text box when possible. When you are done, click **Merge Selected & Re-Cluster**. 
+Click **Cluster**, and **Cluster** one more time when the dialog box appears. Cluster as many same results as you see. Be careful. There are often multiple causes in a single record. The different values are sometimes separated by a comma, and sometimes they are not. We want them to be separated by a comma, so select that option or type it into the text box when possible. When you are done, click **Merge Selected & Re-Cluster**. 
 
 After my clustering, I have 275 distinct values. Again, yours may be slightly different based on your clustering decisions. 
 
