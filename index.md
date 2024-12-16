@@ -148,7 +148,7 @@ OpenRefine offers serveral different methods to bulk edit your data. In this sec
 ### Clustering
 Clustering is one of the most efficient ways to clean you data. In the text facet window you have open, click the **Cluster** button at the top. 
 
-A new dialog box will open. In the center of the box, OpenRefine will suggest values that might be the same. 
+A new dialog box will open. In the center of the box, OpenRefine will prompt you to click **Cluster** again, and will then suggest values that might be the same. 
 
 To designate the values you would like to consolidate, check the merge box. You can go with the suggestions for the new cell value given by OpenRefine or you can choose your own by typing it into the New Cell Value Box. You can also use one of the values being merged as the new cell value by clicking on it. 
 
