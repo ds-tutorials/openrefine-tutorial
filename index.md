@@ -69,6 +69,7 @@ Once you are ready, click **Create Project** in the upper right next to the titl
 
 ## The Interface
 Let's take a few minutes to look at the interface. The OpenRefine window is divided into two sections separated by a light blue line. The smaller section on the left is for faceting and filtering. At the top of the section, there is a Undo/Redo tab. In addition to letting us undo/redo actions, this tab will also let export a list of changes so we can repeat them later. 
+
 ![first section](images/openrefine_images_03.png)
 
 In the larger section, our data is displayed in a spreadsheet format. At the top, you should see that you have 2647 rows. Right below you can switch between rows and records. We will go into more details on this in the spliting cells section. You can also change to display to show up to 50 rows on the page. Go ahead and select 50 rows so we can see as much of our data as possible at once. 
