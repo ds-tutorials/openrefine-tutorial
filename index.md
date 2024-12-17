@@ -1,5 +1,5 @@
 ## About
-Last Updated October 4, 2017  
+Last Updated December 17, 2024  
 Created by Sarah Clayton
 
 ## Table of Contents
