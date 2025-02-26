@@ -43,7 +43,9 @@ The data is made accesible through a Creative Commons Attribution 4.0 Internatio
 
 The examples in this tutorial will use a snapshot of this data downloaded in 2017. [You can download the example data here.](data/MissingMigrants.xlsx) 
 
-If you want to work with the most recent iteration of this data, go to [https://missingmigrants.iom.int/downloads](https://missingmigrants.iom.int/downloads). Scroll down and download the file that corresponds with the current year. Note that the content of this tutorial will be using the 2017 data, so the new data might look a little different than what we will be working with. Additionally, as this data reflects real world experiences/violence, we'd like to acknowledge the humanity and experiences behind the data. While we will be using terms like "data" and "values", we do not wish to reduce or flatten these experiences to mere "data points." 
+If you want to work with the most recent iteration of this data, go to [https://missingmigrants.iom.int/downloads](https://missingmigrants.iom.int/downloads). Scroll down and download the file that corresponds with the current year. Note that the content of this tutorial will be using the 2017 data, so the new data might look a little different than what we will be working with. 
+
+Additionally, as this data reflects real world experiences/violence, we'd like to acknowledge the humanity and experiences behind the data. Each record in this dataset reflects a real person, who has experienced often cruel and tragic events. While we will be using terms like "data" and "values", we do not wish to reduce or flatten these experiences to mere "data points." 
 
 With that being said, open up the file to see what is inside. **What stands out to you that needs to be cleaned?**
 
